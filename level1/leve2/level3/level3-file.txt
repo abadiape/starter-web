@@ -1,0 +1,1 @@
+We calculate predicted reliability ratings for almost every new car, truck, and SUV on the market using data from Consumer Reports’ annual reliability surveys, which ask members about problems they’ve had with their vehicles.
